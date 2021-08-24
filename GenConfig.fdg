@@ -27,7 +27,7 @@
       "Java": false
     },
     "Docker": {
-      "Dockerfile": true,
+      "Dockerfile": false,
       "DockerfileAutobuild": false,
       "DockerBuildShellScript": false,
       "DockerSwarm": false
@@ -68,8 +68,8 @@
       "Wmf": false
     },
     "Metadata": {
-      "Crp": false,
-      "Json": false
+      "Crp": true,
+      "Json": true
     }
   }
 }
